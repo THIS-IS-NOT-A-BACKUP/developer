@@ -23,7 +23,7 @@ The demo example in `prompt.md` shows the potential of AI-enabled, but still fir
 - Human can:
   - simply add to the prompt as they discover underspecified parts of the prompt
   - manually runs the code and identifies errors
-  - *paste the error into the prompt* just like they would file a github issue
+  - *paste the error into the prompt* just like they would file a GitHub issue
   - for extra help, they can use `debugger.py` which reads the whole codebase to make specific code change suggestions
 
 Loop until happiness is attained. Notice that AI is only used as long as it is adding value - once it gets in your way, just take over the codebase from your smol junior developer with no fuss and no hurt feelings. (*we could also have smol-dev take over an existing codebase and bootstrap its own prompt... but that's a Future Direction*)
@@ -32,9 +32,9 @@ Loop until happiness is attained. Notice that AI is only used as long as it is a
 
 Perhaps a higher order evolution of programming where you still need to be technical, but no longer have to implement every detail at least to scaffold things out.
 
-## video demo
+## 6 minute video demo
 
-[![https://i3.ytimg.com/vi/UCo7YeTy-aE/hqdefault.jpg](https://i3.ytimg.com/vi/UCo7YeTy-aE/hqdefault.jpg)](https://youtu.be/UCo7YeTy-aE)
+https://youtu.be/UCo7YeTy-aE (sorry for sped up audio, we were optimizing for twitter, bad call)
 
 ## arch diagram
 
